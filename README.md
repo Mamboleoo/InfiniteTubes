@@ -1,5 +1,7 @@
 # Infinite Tubes
 
+![Infinite Tubes with Three.js](https://tympanus.net/codrops/wp-content/uploads/2017/05/InfiniteTubesWithThreeJS_Featured.jpg)
+
 A tunnel experiment in WebGL inspired by the effect seen on the [http://www.fornasetti.com/](Fornasetti) website. By [Louis Hoebregts](http://mamboleoo.be/).
 
 [Article on Codrops](https://tympanus.net/codrops/?p=30954)

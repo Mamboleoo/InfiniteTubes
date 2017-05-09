@@ -11,7 +11,9 @@ body {
 	--link-color: #e2bd7d;
 	--link-hover-color: #e2bd7d;
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	color: #ddd;
 	color: var(--text-color);
+	background: #000;
 	background: var(--background-color);
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -22,6 +24,7 @@ body {
 
 a {
 	text-decoration: none;
+	color: #ddd;
 	color: var(--link-color);
 	outline: none;
 	border-bottom: 2px solid;
@@ -30,7 +33,7 @@ a {
 
 a:hover,
 a:focus {
-	color: #e2bd7d;
+	color: #000;
 	color: var(--link-hover-color);
 	border-color: transparent;
 }
